@@ -14,7 +14,7 @@ baseline: spec
 				yourself.
 
 			spec
-				baseline: 'GsZMQ'	
+				baseline: 'ZMQ'	
 				with: [ 
 					spec
 						loads: #('default');
@@ -23,7 +23,7 @@ baseline: spec
 
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKRESTSupport'  with: [ spec requires: #('ZincHTTPComponents' 'GsZMQ') ] ;
+				package: 'MSKRESTSupport'  with: [ spec requires: #('ZincHTTPComponents' 'ZMQ') ] ;
 				package: 'MSKSwaggerSupport' with: [ spec requires: #('ZincHTTPComponents' ) ] ;
 				package: 'MSKJSONSchemaSupport';
 				package: 'MSK-ModelBaseRuntime';
