@@ -9,6 +9,19 @@ Originally the base for this code was based on the swagger project, now known as
 
 A PUM application is mainly based on REST API calls, the Gemstone/S database is located behind an Apache2 HTTP server. In addition to that ZMQ as an additional network library is used for additional communication (mainly event infrastructure)
 
+## Installation
 
-    PUMApplicationRuntimeSupport
+You can load MSKJSONSchemaSupport using Metacello
+
+```Smalltalk
+Metacello new
+  repository: 'github://feldti/PUMApplicationRuntimeSupport:main/repository';
+  baseline: 'PUMApplicationRuntimeSupport';
+  onLock: [:ex | ex honor ];
+  load
+```
+
+
+
+
   
