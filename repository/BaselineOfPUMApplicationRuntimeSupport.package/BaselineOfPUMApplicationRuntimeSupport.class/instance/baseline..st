@@ -23,8 +23,8 @@ baseline: spec
 
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKRESTSupport'  with: [ spec requires: #('ZincHTTPComponents-REST' 'GsZMQ') ] ;
-				package: 'MSKSwaggerSupport' with: [ spec requires: #('ZincHTTPComponents-REST' ) ] ;
+				package: 'MSKRESTSupport'  with: [ spec requires: #('ZincHTTPComponents' 'GsZMQ') ] ;
+				package: 'MSKSwaggerSupport' with: [ spec requires: #('ZincHTTPComponents' ) ] ;
 				package: 'MSKJSONSchemaSupport';
 				package: 'MSK-ModelBaseRuntime';
 				yourself.
