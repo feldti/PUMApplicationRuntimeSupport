@@ -1,0 +1,19 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"description",
+		"termsOfServiceUrl",
+		"contact",
+		"license",
+		"licenseUrl" ],
+	"name" : "MSKSwaggerInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKRESTSessionInfoNotFound",
+	"pools" : [
+		 ],
+	"super" : "MSKRESTCallApplicationError",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"code:text:" : "MSK 02/05/2014 13:36",
+		"neoJsonMapping:" : "MSK 04/04/2016 12:25",
+		"pumSimpleSwaggerModel" : "MSK 04/04/2016 12:29" },
+	"instance" : {
+		"code" : "MSK 02/05/2014 13:34",
+		"code:" : "MSK 02/05/2014 13:34",
+		"getCode" : "MSK 10/02/2014 03:28",
+		"getText" : "MSK 10/02/2014 03:28",
+		"text" : "MSK 02/05/2014 13:38",
+		"text:" : "MSK 02/05/2014 13:34" } }

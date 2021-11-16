@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"addAPIDeclaration:" : "MSK 11/03/2014 22:56",
+		"addAllAPIDefinitions" : "MSK 10/18/2014 03:52",
+		"addOperationNamesOf:to:" : "MSK 10/18/2014 06:37",
+		"addResourceSpecificationTo:" : "MSK 11/03/2014 22:53",
+		"apiDeclarationWanted:" : "MSK 11/03/2014 22:54",
+		"apiDefinitions" : "MSK 11/03/2014 09:31",
+		"buildAPIDefinitionsStructure" : "MSK 11/03/2014 22:53",
+		"clearAPIDefinitions" : "MSK 11/03/2014 22:50",
+		"clearMessageDefinitions" : "MSK 11/03/2014 22:55",
+		"createPostMessage:pModelName:rModelName:pDescription:summary:notes:serviceBlock:sessionNeeded:debugCall:" : "MSK 10/24/2014 04:21",
+		"createPostPutDeleteMessage:named:pModelName:rModelName:pDescription:summary:notes:serviceBlock:sessionNeeded:debugCall:" : "MSK 11/11/2014 03:12",
+		"defaultAPIVersion" : "MSK 10/18/2014 03:49",
+		"defaultAPIVersionCounter" : "MSK 10/18/2014 03:49",
+		"isAbstract" : "MSK 10/18/2014 03:49",
+		"newSwaggerParameterNamed:description:type:" : "MSK 10/18/2014 03:49",
+		"searchNickName:" : "MSK 11/03/2014 22:54" },
+	"instance" : {
+		"_primitiveHandler" : "MSK 10/17/2020 03:17",
+		"swaggerOperation" : "MSK 11/03/2014 22:56" } }

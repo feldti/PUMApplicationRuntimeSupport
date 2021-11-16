@@ -1,0 +1,4 @@
+constants
+primitiveFileType
+
+	^'File'

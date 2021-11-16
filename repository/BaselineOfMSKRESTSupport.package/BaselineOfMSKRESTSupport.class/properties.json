@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKRESTSupport",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

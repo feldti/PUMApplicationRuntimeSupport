@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKSwaggerSupport",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

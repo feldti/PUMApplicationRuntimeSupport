@@ -1,0 +1,16 @@
+{
+	"category" : "MSKRESTSupport-RestCall",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"execution",
+		"options",
+		"session" ],
+	"name" : "MSKRestCall",
+	"pools" : [
+		 ],
+	"super" : "ZnAutoMatchedRestCall",
+	"type" : "normal" }

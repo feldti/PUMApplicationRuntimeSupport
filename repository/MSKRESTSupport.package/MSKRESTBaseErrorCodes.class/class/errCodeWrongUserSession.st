@@ -1,0 +1,4 @@
+other
+errCodeWrongUserSession
+
+	^15

@@ -1,0 +1,4 @@
+other
+errCodeNoDebugMode
+
+	^13

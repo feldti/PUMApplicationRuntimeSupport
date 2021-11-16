@@ -1,0 +1,4 @@
+constants
+responseContentTypeApplicationXML
+
+	^'application/xml'

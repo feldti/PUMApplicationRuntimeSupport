@@ -1,0 +1,25 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"apiVersion",
+		"swaggerVersion",
+		"apis",
+		"info",
+		"authorizations",
+		"resourceURL",
+		"resourceHandler",
+		"apiResourceURL",
+		"apiResourceHandler",
+		"apiCounter",
+		"apiCalls",
+		"basePath" ],
+	"name" : "MSKSwaggerResourceListing",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

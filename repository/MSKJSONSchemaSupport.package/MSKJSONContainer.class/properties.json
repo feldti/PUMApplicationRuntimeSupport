@@ -1,0 +1,15 @@
+{
+	"category" : "MSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"holdingType",
+		"uniqueItems" ],
+	"name" : "MSKJSONContainer",
+	"pools" : [
+		 ],
+	"super" : "MSKJSONTypedType",
+	"type" : "normal" }

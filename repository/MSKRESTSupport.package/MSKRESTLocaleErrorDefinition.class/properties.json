@@ -1,0 +1,15 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		"LocalizedErrorMessages" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"countryLocale",
+		"entries" ],
+	"name" : "MSKRESTLocaleErrorDefinition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

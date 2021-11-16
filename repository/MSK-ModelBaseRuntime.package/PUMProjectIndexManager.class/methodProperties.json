@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addIndexSpec:object:container:" : "MSK 06/02/2015 07:19",
+		"indexSpecsForObject:" : "MSK 06/02/2015 07:50",
+		"initialize" : "MSK 06/02/2015 06:57",
+		"registeredIndices" : "MSK 06/02/2015 06:56",
+		"registeredIndices:" : "MSK 06/02/2015 06:56",
+		"removeAllIndexes" : "MSK 06/02/2015 08:19" } }

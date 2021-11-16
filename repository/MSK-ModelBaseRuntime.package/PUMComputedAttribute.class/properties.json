@@ -1,0 +1,24 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"defaultSource",
+		"currentSource",
+		"compiledMethod",
+		"domainObject",
+		"compiledTS",
+		"sourceType",
+		"compiledDefaultMethod",
+		"defaultName",
+		"currentName",
+		"defaultDescription",
+		"currentDescription" ],
+	"name" : "PUMComputedAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

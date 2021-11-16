@@ -1,0 +1,4 @@
+constants
+languageASyncCSharpConstant
+
+	^'async c#'

@@ -1,0 +1,14 @@
+{
+	"category" : "MSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"format" ],
+	"name" : "MSKJSONFloatingType",
+	"pools" : [
+		 ],
+	"super" : "MSKJSONTypedType",
+	"type" : "normal" }

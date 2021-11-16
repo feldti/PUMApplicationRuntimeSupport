@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"items:total:offset:limit:" : "MSK 02/12/2014 21:30",
+		"neoJsonMapping:" : "MSK 02/12/2014 21:30" },
+	"instance" : {
+		"items" : "MSK 02/12/2014 21:29",
+		"items:" : "MSK 02/12/2014 21:29",
+		"limit" : "MSK 02/12/2014 21:29",
+		"limit:" : "MSK 02/12/2014 21:29",
+		"offset" : "MSK 02/12/2014 21:29",
+		"offset:" : "MSK 02/12/2014 21:29",
+		"total" : "MSK 02/12/2014 21:29",
+		"total:" : "MSK 02/12/2014 21:29" } }

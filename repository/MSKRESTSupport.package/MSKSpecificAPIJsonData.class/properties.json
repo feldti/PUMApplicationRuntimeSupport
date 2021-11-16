@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-RestCall",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKSpecificAPIJsonData",
+	"pools" : [
+		 ],
+	"super" : "MSKRestCall",
+	"type" : "normal" }

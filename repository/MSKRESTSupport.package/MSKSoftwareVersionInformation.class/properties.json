@@ -1,0 +1,20 @@
+{
+	"category" : "MSKRESTSupport-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"version",
+		"protocol",
+		"enabled" ],
+	"name" : "MSKSoftwareVersionInformation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : [
+		"normal",
+		[
+			"dbTransient" ] ] }

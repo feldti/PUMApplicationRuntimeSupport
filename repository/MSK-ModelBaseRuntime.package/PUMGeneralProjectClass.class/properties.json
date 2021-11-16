@@ -1,0 +1,14 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectIndexManager" ],
+	"name" : "PUMGeneralProjectClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

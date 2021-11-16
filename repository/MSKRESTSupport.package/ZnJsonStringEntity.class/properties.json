@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZnJsonStringEntity",
+	"pools" : [
+		 ],
+	"super" : "ZnStringEntity",
+	"type" : "normal" }

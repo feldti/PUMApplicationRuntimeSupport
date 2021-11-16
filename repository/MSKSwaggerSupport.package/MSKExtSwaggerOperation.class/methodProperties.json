@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkPermissionBlock" : "MSK 11/04/2021 13:58",
+		"checkPermissionBlock:" : "MSK 11/04/2021 13:58",
+		"checkSession" : "MSK 11/04/2021 13:58",
+		"checkSession:" : "MSK 11/04/2021 13:58",
+		"debugModeCallOnly" : "MSK 11/04/2021 13:58",
+		"debugModeCallOnly:" : "MSK 11/04/2021 13:58",
+		"initialVersion" : "MSK 11/04/2021 14:05",
+		"initialVersion:" : "MSK 11/04/2021 14:05",
+		"initialize" : "MSK 11/04/2021 14:07",
+		"obsoleteState" : "MSK 11/04/2021 14:05",
+		"obsoleteState:" : "MSK 11/04/2021 14:05",
+		"publishedInAPI" : "MSK 11/04/2021 13:58",
+		"publishedInAPI:" : "MSK 11/04/2021 13:58",
+		"serviceCall" : "MSK 11/04/2021 13:58",
+		"serviceCall:" : "MSK 11/04/2021 13:58" } }

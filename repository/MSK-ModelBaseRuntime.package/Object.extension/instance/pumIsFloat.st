@@ -1,0 +1,4 @@
+*MSK-ModelBaseRuntime
+pumIsFloat
+
+	^false

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"errCodeEmptyMultiPartFormDataEntity" : "MSK 06/10/2014 15:19",
+		"errCodeMethodNotImplemented" : "MSK 06/10/2014 15:20",
+		"errCodeMimePartNotFound" : "MSK 06/10/2014 15:20",
+		"errCodeNoDebugMode" : "MSK 06/10/2014 15:18",
+		"errCodeNoEntity" : "MSK 06/10/2014 15:19",
+		"errCodeNoFormURLEncodingEntity" : "MSK 06/10/2014 15:18",
+		"errCodeNoMultiPartFormDataEntity" : "MSK 06/10/2014 15:19",
+		"errCodeNoParameterOrNoFormElements" : "MSK 06/10/2014 15:29",
+		"errCodeParameterMissing" : "MSK 06/10/2014 15:29",
+		"errCodeParameterWrongValue" : "MSK 06/10/2014 15:30",
+		"errCodeRevisionConflict" : "MSK 06/10/2014 15:20",
+		"errCodeWrongActingUserSession" : "MSK 06/10/2014 15:18",
+		"errCodeWrongUserSession" : "MSK 06/10/2014 15:18",
+		"errCodeWrongVerification" : "MSK 06/10/2014 15:18" },
+	"instance" : {
+		 } }

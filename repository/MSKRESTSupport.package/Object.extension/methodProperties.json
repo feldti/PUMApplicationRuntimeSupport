@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"mskCheckNotNilDefinitionState" : "MSK 12/01/2014 06:43",
+		"objectForOop:expectClass:ifFalse:" : "MSK 12/03/2018 11:46",
+		"objectForOop:expectSubClass:ifFalse:" : "MSK 03/08/2018 16:09",
+		"objectForOop:ifFalse:" : "MSK 09/04/2019 15:07",
+		"subClassObjectForOop:ifFalse:" : "MSK 10/11/2019 17:03" },
+	"instance" : {
+		"isMSKRESTAPIAnswer" : "MSK 02/17/2014 07:51" } }

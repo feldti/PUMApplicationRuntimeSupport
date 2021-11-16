@@ -1,0 +1,4 @@
+finishing
+setApplicationTextHTMLResponseType
+
+	self responseType: ZnMimeType textHtml

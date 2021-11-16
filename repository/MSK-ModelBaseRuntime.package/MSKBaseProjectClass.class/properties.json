@@ -1,0 +1,14 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKBaseProjectClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

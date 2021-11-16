@@ -1,0 +1,15 @@
+{
+	"category" : "MSKRESTSupport-Option",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"option",
+		"swaggerParameter" ],
+	"name" : "MSKFormParameterChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

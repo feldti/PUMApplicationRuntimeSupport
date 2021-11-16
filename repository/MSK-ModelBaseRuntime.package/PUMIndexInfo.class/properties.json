@@ -1,0 +1,16 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gsIndexSpec",
+		"container",
+		"owner" ],
+	"name" : "PUMIndexInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

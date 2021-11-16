@@ -1,0 +1,4 @@
+other
+errCodeParameterWrongValue
+
+	^11

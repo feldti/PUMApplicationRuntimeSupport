@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pathSegments" ],
+	"name" : "MSKRestPath",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

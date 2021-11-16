@@ -1,0 +1,14 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PUMGeneralServiceClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

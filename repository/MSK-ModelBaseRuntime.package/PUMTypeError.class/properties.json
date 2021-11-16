@@ -1,0 +1,17 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"attributeName",
+		"expectedType",
+		"receivedType" ],
+	"name" : "PUMTypeError",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

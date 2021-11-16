@@ -1,0 +1,4 @@
+adding
+addResponse: aMSKSwaggerResponseMesssage
+
+	self errorResponses add: aMSKSwaggerResponseMesssage

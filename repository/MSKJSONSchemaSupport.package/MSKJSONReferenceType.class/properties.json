@@ -1,0 +1,14 @@
+{
+	"category" : "MSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reference" ],
+	"name" : "MSKJSONReferenceType",
+	"pools" : [
+		 ],
+	"super" : "MSKJSONBooleanType",
+	"type" : "normal" }

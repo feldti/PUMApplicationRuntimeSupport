@@ -1,0 +1,21 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"debugModeCallOnly",
+		"checkSession",
+		"serviceCall",
+		"checkPermissionBlock",
+		"publishedInAPI",
+		"obsoleteState",
+		"initialVersion",
+		"examples" ],
+	"name" : "MSKExtSwaggerOperation",
+	"pools" : [
+		 ],
+	"super" : "MSKSwaggerOperation",
+	"type" : "normal" }

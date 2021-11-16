@@ -1,0 +1,3 @@
+Accessing
+currentDescription
+	^currentDescription

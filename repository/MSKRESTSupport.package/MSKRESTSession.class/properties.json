@@ -1,0 +1,20 @@
+{
+	"category" : "MSKRESTSupport-RestCall",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"__id",
+		"defaultTimeout",
+		"location",
+		"lastActivity",
+		"closed",
+		"expiration",
+		"userDefinedAttributes" ],
+	"name" : "MSKRESTSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

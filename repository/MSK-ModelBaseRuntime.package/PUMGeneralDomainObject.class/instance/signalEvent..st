@@ -1,0 +1,2 @@
+model-support
+signalEvent: aSymbol

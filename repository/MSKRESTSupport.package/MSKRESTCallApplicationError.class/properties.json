@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mskRESTAPIAnswer" ],
+	"name" : "MSKRESTCallApplicationError",
+	"pools" : [
+		 ],
+	"super" : "MSKRESTCallError",
+	"type" : "normal" }

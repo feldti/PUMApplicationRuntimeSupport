@@ -1,0 +1,29 @@
+{
+	"category" : "MSKRESTSupport-RestCall",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"response",
+		"doCommit",
+		"restCall",
+		"data",
+		"success",
+		"error",
+		"addDebugInfo",
+		"jsonSerializeMessage",
+		"resultModel",
+		"actionBlocks",
+		"retriesAllowed",
+		"zmqEvents",
+		"doSessionUpdateInSameTransaction",
+		"logEvents",
+		"responseType",
+		"failureEventCalls" ],
+	"name" : "MSKRESTAPIAnswer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

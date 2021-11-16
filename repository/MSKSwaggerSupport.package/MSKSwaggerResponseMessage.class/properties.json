@@ -1,0 +1,16 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"code",
+		"reason",
+		"responseModel" ],
+	"name" : "MSKSwaggerResponseMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

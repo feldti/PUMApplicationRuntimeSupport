@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"badRequest:comment:" : "MSK 01/08/2015 06:07",
+		"conflict:" : "MSK 01/08/2015 06:07",
+		"conflict:comment:" : "MSK 01/08/2015 06:07",
+		"notFoundComment:" : "MSK 01/06/2014 09:42",
+		"notImplementedComment:" : "MSK 01/06/2014 16:44" },
+	"instance" : {
+		 } }

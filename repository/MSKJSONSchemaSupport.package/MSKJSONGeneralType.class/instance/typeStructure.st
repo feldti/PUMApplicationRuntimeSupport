@@ -1,0 +1,4 @@
+Accessing
+typeStructure
+
+	^Dictionary new

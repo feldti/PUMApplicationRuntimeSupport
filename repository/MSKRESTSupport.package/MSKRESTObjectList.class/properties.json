@@ -1,0 +1,17 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"total",
+		"items",
+		"offset",
+		"limit" ],
+	"name" : "MSKRESTObjectList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKJSONSchemaSupport",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

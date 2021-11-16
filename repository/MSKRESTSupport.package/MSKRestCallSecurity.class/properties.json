@@ -1,0 +1,15 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"restCallClass",
+		"permissions" ],
+	"name" : "MSKRestCallSecurity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

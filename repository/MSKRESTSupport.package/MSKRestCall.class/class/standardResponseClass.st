@@ -1,0 +1,4 @@
+framework
+standardResponseClass
+
+	^MSKRESTAPIAnswer pumSimpleSwaggerModel

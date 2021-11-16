@@ -1,0 +1,4 @@
+constants
+primitiveIntegerFormat
+
+	^'int32'

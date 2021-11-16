@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doBodyChecking" : "MSK 06/02/2015 13:41",
+		"doChecking:raw:" : "MSK 05/20/2014 00:21",
+		"doFormChecking" : "MSK 02/21/2014 10:47",
+		"doPathChecking" : "MSK 02/21/2014 12:40",
+		"doQueryChecking" : "MSK 02/21/2014 10:47",
+		"option" : "MSK 02/19/2014 11:04",
+		"option:" : "MSK 02/19/2014 11:04",
+		"swaggerParameter" : "MSK 02/19/2014 11:04",
+		"swaggerParameter:" : "MSK 02/19/2014 11:04" } }

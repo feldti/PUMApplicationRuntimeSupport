@@ -1,0 +1,4 @@
+other
+errCodeNoParameterOrNoFormElements
+
+	^12

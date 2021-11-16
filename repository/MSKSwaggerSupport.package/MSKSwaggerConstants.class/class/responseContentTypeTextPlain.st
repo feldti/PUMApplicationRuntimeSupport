@@ -1,0 +1,4 @@
+constants
+responseContentTypeTextPlain
+
+	^'text/plain'

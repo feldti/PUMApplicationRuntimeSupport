@@ -1,0 +1,15 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		"MessageDefinitions",
+		"APIDefinitions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"swaggerOperation" ],
+	"name" : "MSKRestCallV2",
+	"pools" : [
+		 ],
+	"super" : "MSKRestCall",
+	"type" : "normal" }

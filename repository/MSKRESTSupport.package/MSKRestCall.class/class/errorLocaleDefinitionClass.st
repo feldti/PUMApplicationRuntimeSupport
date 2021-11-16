@@ -1,0 +1,4 @@
+rest support
+errorLocaleDefinitionClass
+
+	^MSKRESTLocaleErrorDefinition

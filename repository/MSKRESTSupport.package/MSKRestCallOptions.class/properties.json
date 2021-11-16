@@ -1,0 +1,21 @@
+{
+	"category" : "MSKRESTSupport-Option",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"restCallInstance",
+		"userDefinedAttributes",
+		"formUrlEncodedEntity",
+		"operation",
+		"localeString",
+		"session",
+		"zmqTelegramsOnSuccess",
+		"zmqTelegramsOnFailure" ],
+	"name" : "MSKRestCallOptions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

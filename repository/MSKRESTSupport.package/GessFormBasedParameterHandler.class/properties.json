@@ -1,0 +1,20 @@
+{
+	"category" : "MSKRESTSupport-Option",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"option",
+		"name",
+		"parameter",
+		"defined" ],
+	"name" : "GessFormBasedParameterHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : [
+		"normal",
+		[
+			"dbTransient" ] ] }

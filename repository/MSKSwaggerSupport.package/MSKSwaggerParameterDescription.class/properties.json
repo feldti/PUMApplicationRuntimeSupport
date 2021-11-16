@@ -1,0 +1,28 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"paramType",
+		"name",
+		"description",
+		"dataType",
+		"format",
+		"required",
+		"minimum",
+		"maximum",
+		"enum",
+		"missingBlock",
+		"validBlock",
+		"definedBlock",
+		"notValidBlock",
+		"defaultValue",
+		"authorizations" ],
+	"name" : "MSKSwaggerParameterDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Converter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKTimeStampConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+other
+errCodeRevisionConflict
+
+	^22

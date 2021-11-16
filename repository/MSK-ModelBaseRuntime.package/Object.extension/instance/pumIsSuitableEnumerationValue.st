@@ -1,0 +1,4 @@
+*MSK-ModelBaseRuntime
+pumIsSuitableEnumerationValue
+
+	^false

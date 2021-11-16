@@ -1,0 +1,14 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKSwaggerConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

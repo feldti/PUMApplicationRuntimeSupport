@@ -1,0 +1,4 @@
+constants
+primitiveLongFormat
+
+	^'int64'

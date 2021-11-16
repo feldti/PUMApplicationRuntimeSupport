@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"domainClass:filterInstructions:" : "MSK 02/06/2018 16:38",
+		"test001" : "MSK 02/06/2018 16:46",
+		"test002" : "MSK 02/06/2018 16:52" },
+	"instance" : {
+		"apiClass" : "MSK 02/06/2018 15:00",
+		"apiClass:" : "MSK 02/06/2018 15:00",
+		"buildGsQuery" : "MSK 02/06/2018 16:48",
+		"buildGsQueryStringAndMappings" : "MSK 02/06/2018 16:45",
+		"buildInGsQueryString:propertyName:mappingValues:value:" : "MSK 02/06/2018 16:14",
+		"buildNotInGsQueryString:propertyName:mappingValues:value:" : "MSK 02/06/2018 16:09",
+		"domainClass" : "MSK 02/06/2018 15:00",
+		"domainClass:" : "MSK 02/06/2018 15:00",
+		"filterInstructions" : "MSK 02/06/2018 15:00",
+		"filterInstructions:" : "MSK 02/06/2018 15:00",
+		"gsQuery" : "MSK 02/06/2018 15:00",
+		"gsQuery:" : "MSK 02/06/2018 15:00" } }

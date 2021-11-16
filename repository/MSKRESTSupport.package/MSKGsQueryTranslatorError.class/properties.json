@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorMessage" ],
+	"name" : "MSKGsQueryTranslatorError",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

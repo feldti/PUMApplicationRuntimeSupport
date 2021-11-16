@@ -1,0 +1,4 @@
+finishing
+setApplicationJsonUTF8ResponseType
+
+	self responseType: ZnMimeType applicationJsonUTF8

@@ -1,0 +1,4 @@
+Accessing
+text
+
+	^text

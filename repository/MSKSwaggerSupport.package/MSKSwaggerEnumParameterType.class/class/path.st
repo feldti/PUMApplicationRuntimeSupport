@@ -1,0 +1,4 @@
+other
+path
+
+	^'path'

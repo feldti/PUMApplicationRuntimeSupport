@@ -1,0 +1,14 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKRestServerDelegateV2",
+	"pools" : [
+		 ],
+	"super" : "MSKRestServerDelegate",
+	"type" : "normal" }

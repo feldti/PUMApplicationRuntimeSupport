@@ -1,0 +1,2 @@
+*MSK-ModelBaseRuntime
+throwMSKNullParameterException:  aString

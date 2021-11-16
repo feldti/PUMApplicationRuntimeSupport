@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"cookieName" : "MSK 02/05/2014 16:19",
+		"cookiePath" : "MSK 02/05/2014 16:19",
+		"defaultTimeoutInMilliseconds" : "MSK 02/05/2014 16:17",
+		"neoJsonMapping:" : "MSK 02/05/2014 16:20" },
+	"instance" : {
+		"__id" : "MSK 02/05/2014 16:17",
+		"__id:" : "MSK 02/05/2014 16:17",
+		"closed" : "MSK 02/05/2014 16:17",
+		"closed:" : "MSK 02/05/2014 16:17",
+		"defaultTimeout" : "MSK 02/05/2014 16:17",
+		"defaultTimeout:" : "MSK 02/05/2014 16:17",
+		"expiration" : "MSK 02/05/2014 16:17",
+		"expiration:" : "MSK 02/05/2014 16:17",
+		"hasExpired" : "MSK 05/04/2016 05:09",
+		"hasExpiredAt:" : "MSK 02/06/2014 07:28",
+		"initialize" : "MSK 02/05/2014 16:17",
+		"lastActivity" : "MSK 02/05/2014 16:17",
+		"lastActivity:" : "MSK 02/05/2014 16:17",
+		"location" : "MSK 02/05/2014 16:17",
+		"location:" : "MSK 02/05/2014 16:17",
+		"sessionCookie" : "MSK 02/05/2014 16:21",
+		"updateTimeout" : "MSK 02/05/2014 16:18",
+		"userDefinedAttributes" : "MSK 02/05/2014 16:31",
+		"userDefinedAttributes:" : "MSK 02/05/2014 16:31" } }

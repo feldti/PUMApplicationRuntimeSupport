@@ -1,0 +1,16 @@
+{
+	"category" : "MSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"required",
+		"generalType" ],
+	"name" : "MSKJSONProperty",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKRESTBaseErrorCodes",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"counter",
+		"domainClass",
+		"gsQuery",
+		"filterInstructions" ],
+	"name" : "MSKSenchaFilterToGsQueryTransformator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

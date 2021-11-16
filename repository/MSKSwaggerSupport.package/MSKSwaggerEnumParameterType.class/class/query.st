@@ -1,0 +1,4 @@
+other
+query
+
+	^'query'

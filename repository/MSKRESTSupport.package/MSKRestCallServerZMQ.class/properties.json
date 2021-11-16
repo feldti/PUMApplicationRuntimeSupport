@@ -1,0 +1,20 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zmqPort",
+		"zmqProtocol",
+		"zmqPushSocket",
+		"zmqContext",
+		"zmqLogPushSocket",
+		"appName",
+		"appCounter" ],
+	"name" : "MSKRestCallServerZMQ",
+	"pools" : [
+		 ],
+	"super" : "MSKRestCallServer",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+constants
+responseContentTypeTextHTML
+
+	^'text/html'

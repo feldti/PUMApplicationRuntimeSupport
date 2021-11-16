@@ -1,0 +1,17 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		"Default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"znServer",
+		"port",
+		"interface",
+		"protocol" ],
+	"name" : "MSKRestCallServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

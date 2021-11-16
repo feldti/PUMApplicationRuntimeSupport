@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKModelBaseRuntime",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

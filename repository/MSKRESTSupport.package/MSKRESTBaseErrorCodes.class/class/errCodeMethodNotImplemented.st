@@ -1,0 +1,4 @@
+other
+errCodeMethodNotImplemented
+
+	^23

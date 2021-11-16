@@ -1,0 +1,16 @@
+{
+	"category" : "MSKRESTSupport-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"callSecurities",
+		"groupName",
+		"level" ],
+	"name" : "MSKRestCallGroupSecurity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

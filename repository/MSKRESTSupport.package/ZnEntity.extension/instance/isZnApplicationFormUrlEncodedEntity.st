@@ -1,0 +1,4 @@
+*MSKRESTSupport
+isZnApplicationFormUrlEncodedEntity
+
+	^false

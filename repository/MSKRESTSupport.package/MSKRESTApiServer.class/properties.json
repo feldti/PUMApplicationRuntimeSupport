@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKRESTApiServer",
+	"pools" : [
+		 ],
+	"super" : "ZnSingleThreadedServer",
+	"type" : "normal" }

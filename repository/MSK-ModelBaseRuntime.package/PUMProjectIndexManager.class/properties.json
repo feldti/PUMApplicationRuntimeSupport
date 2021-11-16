@@ -1,0 +1,14 @@
+{
+	"category" : "MSK-ModelBaseRuntime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registeredIndices" ],
+	"name" : "PUMProjectIndexManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

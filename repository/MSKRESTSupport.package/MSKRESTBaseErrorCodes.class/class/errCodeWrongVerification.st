@@ -1,0 +1,4 @@
+other
+errCodeWrongVerification
+
+	^16

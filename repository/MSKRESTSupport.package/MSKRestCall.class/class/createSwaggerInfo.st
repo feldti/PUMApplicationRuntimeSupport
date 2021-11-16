@@ -1,0 +1,4 @@
+swagger
+createSwaggerInfo
+
+	^nil

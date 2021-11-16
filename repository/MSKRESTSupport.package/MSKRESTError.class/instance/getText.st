@@ -1,0 +1,4 @@
+Accessing
+getText
+
+	^text

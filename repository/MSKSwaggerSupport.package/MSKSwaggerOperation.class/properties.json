@@ -1,0 +1,22 @@
+{
+	"category" : "MSKSwaggerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method",
+		"nickname",
+		"type",
+		"parameters",
+		"summary",
+		"notes",
+		"errorResponses",
+		"consumes",
+		"authorizations" ],
+	"name" : "MSKSwaggerOperation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

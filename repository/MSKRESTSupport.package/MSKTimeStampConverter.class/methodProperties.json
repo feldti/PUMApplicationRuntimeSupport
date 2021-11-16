@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"dateAndTimeAsRFC3339:" : "MSK 02/06/2018 17:33",
+		"dateAndTimeFromRFC3339:" : "MSK 02/06/2018 17:34",
+		"dateAndTimeUTCAsJavascript:" : "MSK 02/20/2014 15:41",
+		"dateAndTimeUTCFromRFC3339:" : "MSK 02/06/2018 17:34",
+		"defaultDateFormat" : "MSK 12/19/2015 12:10",
+		"defaultTimeFormat" : "MSK 12/19/2015 12:12",
+		"nowUTCAsJavascript" : "MSK 02/10/2014 22:11",
+		"nowUTCFromJavascript:" : "MSK 11/13/2016 09:51",
+		"nowUTCFromJavascript:offset:" : "MSK 11/13/2016 09:51" },
+	"instance" : {
+		 } }

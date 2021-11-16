@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPUMApplicationRuntimeSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPUMApplicationRuntimeSupport",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

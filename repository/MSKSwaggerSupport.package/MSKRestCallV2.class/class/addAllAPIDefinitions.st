@@ -1,0 +1,4 @@
+auto generated
+addAllAPIDefinitions
+
+	self subclassResponsibility

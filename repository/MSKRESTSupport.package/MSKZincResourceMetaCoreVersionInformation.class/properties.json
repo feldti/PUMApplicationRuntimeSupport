@@ -1,0 +1,14 @@
+{
+	"category" : "MSKRESTSupport-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKZincResourceMetaCoreVersionInformation",
+	"pools" : [
+		 ],
+	"super" : "MSKSoftwareVersionInformation",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+*MSKRESTSupport-RestCall
+isMSKRESTAPIAnswer
+
+	^false
