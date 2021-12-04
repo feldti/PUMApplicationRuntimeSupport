@@ -1,0 +1,4 @@
+initialize
+holdingTypeTypeStructure
+
+	^self holdingType typeStructure

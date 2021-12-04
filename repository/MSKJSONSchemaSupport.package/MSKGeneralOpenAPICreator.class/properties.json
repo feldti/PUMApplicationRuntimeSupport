@@ -1,0 +1,16 @@
+{
+	"category" : "MSKJSONSchemaSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aMSKRestCallV2",
+		"baseDirectory",
+		"documentCreationTS" ],
+	"name" : "MSKGeneralOpenAPICreator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
