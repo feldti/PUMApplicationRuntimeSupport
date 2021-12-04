@@ -1,5 +1,7 @@
 Accessing
 referenceName
+	"MF - Korrektur fuer OpenAPI 3.x"
 
    "Return the value of the instance variable 'reference'."
-   ^reference id
+
+   ^'#/components/schemas/',reference value id

@@ -1,4 +1,4 @@
 initialize
 initialize
 
-	required := false
+	required := false.

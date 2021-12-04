@@ -1,13 +1,14 @@
 {
 	"class" : {
-		"neoJsonMapping:" : "MSK 02/17/2014 21:26",
+		"neoJsonMapping:" : "MSK 11/30/2021 20:56",
 		"with:" : "MSK 02/17/2014 21:13" },
 	"instance" : {
 		"format" : "MSK 03/05/2014 11:39",
 		"holdingType" : "MSK 02/17/2014 21:07",
 		"holdingType:" : "MSK 02/17/2014 21:07",
+		"holdingTypeTypeStructure" : "MSK 11/30/2021 20:56",
 		"initialize" : "MSK 02/17/2014 21:13",
 		"items" : "MSK 02/17/2014 22:15",
-		"typeStructure" : "MSK 02/17/2014 21:44",
+		"typeStructure" : "MSK 11/30/2021 19:35",
 		"uniqueItems" : "MSK 02/17/2014 21:07",
 		"uniqueItems:" : "MSK 02/17/2014 21:07" } }

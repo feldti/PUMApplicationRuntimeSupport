@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"neoJsonMapping:" : "MSK 02/17/2014 22:15",
+		"neoJsonMapping:" : "MSK 11/30/2021 19:26",
 		"with:" : "MSK 02/17/2014 21:30" },
 	"instance" : {
 		"reference" : "MSK 02/17/2014 21:30",
 		"reference:" : "MSK 02/17/2014 21:30",
-		"referenceName" : "MSK 02/17/2014 22:12",
+		"referenceName" : "MSK 11/30/2021 19:03",
 		"type" : "MSK 02/17/2014 22:19",
-		"typeStructure" : "MSK 02/17/2014 21:58" } }
+		"typeStructure" : "MSK 11/30/2021 19:09" } }
