@@ -24,15 +24,3 @@ createDirectories
 		ifTrue:[ GsFile createServerDirectory: newDirectory mode: 8r777 ].
 	(GsFile isServerDirectory: newDirectory) 
 		ifFalse:[ self halt: 'directory ',self baseDirectory,' could NOT be created' ].
-
-	newDirectory := newDirectory,'/components'.
-	(tmp := GsFile isServerDirectory: newDirectory) isNil 
-		ifTrue:[ GsFile createServerDirectory: newDirectory mode: 8r777 ].
-	(GsFile isServerDirectory: newDirectory) 
-		ifFalse:[ self halt: 'directory ',self baseDirectory,' could NOT becreated' ].
-
-	newDirectory := newDirectory,'/schemas'.
-	(tmp := GsFile isServerDirectory: newDirectory) isNil 
-		ifTrue:[ GsFile createServerDirectory: newDirectory mode: 8r777 ].
-	(GsFile isServerDirectory: newDirectory) 
-		ifFalse:[ self halt: 'directory ',self baseDirectory,' could NOT be  created' ].
