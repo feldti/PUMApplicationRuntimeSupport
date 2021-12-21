@@ -31,4 +31,8 @@
 		"set:value:" : "MSK 11/03/2021 15:35",
 		"user" : "MSK 11/03/2021 15:35",
 		"userDefinedAttributes" : "MSK 11/03/2021 15:35",
-		"userDefinedAttributes:" : "MSK 11/03/2021 15:35" } }
+		"userDefinedAttributes:" : "MSK 11/03/2021 15:35",
+		"zmqTelegramsOnFailure" : "MSK 12/08/2021 17:12",
+		"zmqTelegramsOnFailure:" : "MSK 12/08/2021 17:12",
+		"zmqTelegramsOnSuccess" : "MSK 12/08/2021 17:12",
+		"zmqTelegramsOnSuccess:" : "MSK 12/08/2021 17:12" } }
