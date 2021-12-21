@@ -1,0 +1,3 @@
+Accessing
+allowedWithoutValidSession
+	^allowedWithoutValidSession
