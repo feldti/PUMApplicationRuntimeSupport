@@ -45,7 +45,7 @@ _primitiveHandler
 						do: [ :ex | 
 							ex return: ((MSKRESTAPIAnswer 
 												okRequestFor: self 
-												object: (self error: MSKRESTBaseErrorCodes errCodeWrongUserSession arguments: (Array with: 'Expired?')))
+												object: (self error: MSKRESTBaseErrorCodes errCodeWrongUserSession arguments: (Array with: 'Expired  ?')))
 												noRetriesAllowed ;
 												failureWithNoCommitCall ;
 												yourself )  

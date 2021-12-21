@@ -6,6 +6,10 @@ neoJsonMapping: mapper
 		mapping mapAccessors: #(dbgms dbgss dbgloc dbgapi dbgts).
 	].
 
+	mapper for: SmallDateAndTime customDo: [ :mapping |
+		mapping decoder: [ :string | MSKTimeStampConverter nowUTCFromJavascript: string ].
+		mapping encoder: [ :dateAndTime | MSKTimeStampConverter dateAndTimeUTCAsJavascript: dateAndTime ] ].
+
 	mapper for: DateAndTime customDo: [ :mapping |
 		mapping decoder: [ :string | MSKTimeStampConverter nowUTCFromJavascript: string ].
 		mapping encoder: [ :dateAndTime | MSKTimeStampConverter dateAndTimeUTCAsJavascript: dateAndTime ] ].

@@ -21,7 +21,8 @@
 		"doSessionUpdateInSameTransaction",
 		"logEvents",
 		"responseType",
-		"failureEventCalls" ],
+		"failureEventCalls",
+		"allowedWithoutValidSession" ],
 	"name" : "MSKRESTAPIAnswer",
 	"pools" : [
 		 ],

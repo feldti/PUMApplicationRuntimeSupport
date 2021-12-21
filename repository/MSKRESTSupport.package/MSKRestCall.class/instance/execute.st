@@ -38,7 +38,7 @@ execute
 		(aMSKRESTAPIAnswer := self _primitiveHandler) isMSKRESTAPIAnswer
 			ifTrue:[					
 					sessionExistsAndIsExpired := self session notNil and: [ self session hasExpired ].
-					sessionExistsAndIsExpired
+					(sessionExistsAndIsExpired and:[ aMSKRESTAPIAnswer allowedWithoutValidSession not ])
 						ifTrue:[
 							System abortTransaction.
 							aMSKRESTAPIAnswer :=

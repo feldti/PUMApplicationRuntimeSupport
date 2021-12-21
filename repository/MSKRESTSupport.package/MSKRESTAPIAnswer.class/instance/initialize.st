@@ -12,3 +12,5 @@ initialize
 	zmqEvents := Array new.
 	failureEventCalls := Array new.
 	logEvents := Array new.
+
+	allowedWithoutValidSession := false.
